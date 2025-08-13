@@ -25,7 +25,7 @@ A tiny Windows batch script that adds **"Open with VS Code"** to the right-click
    - Type `I` → install  
    - Type `U` → uninstall  
 3. Windows Explorer will restart automatically; the menu appears immediately.
-4. If auto find "Code.exe" you need set CodePath Manually, see [Custom VS Code Path](#️-custom-vs-code-path)
+4. If auto find "Code.exe" failed you need set `CodePath` Manually, see [Custom VS Code Path](#️-custom-vs-code-path)
 
 ---
 
