@@ -50,8 +50,7 @@ set "CodePath=C:\Your\Path\To\Code.exe"
 
 ## 🌐 All Users Mode (System-Wide)
 
-1. Run the script as Administrator
-2. Change line 55 from
+1. Change line 55 from
     ```bat
     set "ROOT=HKCU\Software\Classes"
     ```
@@ -59,6 +58,7 @@ set "CodePath=C:\Your\Path\To\Code.exe"
     ```bat
     set "ROOT=HKCR"
     ```
+2. Run the script as Administrator
 
 ## 📄 Registry Locations Created
 
